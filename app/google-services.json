@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896046096835",
+    "firebase_url": "https://dot-chat-b72e6.firebaseio.com",
+    "project_id": "dot-chat-b72e6",
+    "storage_bucket": "dot-chat-b72e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896046096835:android:094bd70a14541fa5bddd76",
+        "android_client_info": {
+          "package_name": "com.example.dotchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896046096835-jloip7r2r32bm45d7h827t55k3fmp9uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC48HOwmetdXm3ZJmWHbn7GO230qZ2JDaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896046096835-jloip7r2r32bm45d7h827t55k3fmp9uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
